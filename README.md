@@ -37,23 +37,8 @@ React Native Astral is a fork of React Native for macOS. The project is still a 
 
 Please use these community resources for getting help. We use the GitHub issues for tracking bugs and feature requests and have limited bandwidth to address them.
 
-- Ask a question on [StackOverflow](https://stackoverflow.com/) and tag it with `react-native-macos`
-- Chat with us on [Reactiflux](https://discord.gg/0ZcbPKXt5bWJVmUY) in `#react-native-platforms` (mentioning @ptmt)
-- DM @ptmt on twitter
-
-## Examples
-
-### UIExplorer
-
-UIExplorer includes a set of component examples that illustrate their functionality. It also allows you to load external JavaScript bundle files through HTTP. Simply copy and paste a URL into the Search Field.
-
-[Download UIExplorer](https://github.com/ptmt/react-native-macos/files/199128/UIExplorer.zip)
-
-![screenshot 2016-03-31 21 06 33](https://cloud.githubusercontent.com/assets/1004115/14185918/91648d8c-f784-11e5-82b6-fcd08b74b89a.png)
-
-![screenshot 2016-03-31 21 00 30](https://cloud.githubusercontent.com/assets/1004115/14185806/1cd2dfdc-f784-11e5-8c14-de0ca21f7ead.png)
-
-![screenshot 2015-10-24 16 40 36](https://cloud.githubusercontent.com/assets/1004115/14185895/7c133eb0-f784-11e5-8e3c-ca36aa351a26.png)
+- Ask a question on [StackOverflow](https://stackoverflow.com/) and tag it with `react-native-astral`
+- DM @drsounds on twitter
 
 ## License
 
