@@ -1,4 +1,4 @@
-# React Native Astral 
+# React Native Astral (ETA April 2018)
 
 Build desktop applications running on astral plane for interacting with spiritual entities using React Native.
 
